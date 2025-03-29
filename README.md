@@ -58,7 +58,7 @@ npm run dev
 5. Check the query history for previously entered queries.
 
 ## Deployment
-The project is deployed on [Netlify/Vercel](deployment-link). You can access it [here](deployment-link).
+The project is deployed on [Vercel](deployment-link). You can access it [here](https://v0-frontend-engineering-challenge.vercel.app/).
 
 ## Evaluation Focus
 - **React component structure**: Maintainability and reusability.
