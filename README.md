@@ -77,8 +77,6 @@ The project is deployed on [Vercel](deployment-link). You can access it [here](h
 ## Author
 Priyanka Agarwal
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 Thank you for reviewing this project! 🚀
